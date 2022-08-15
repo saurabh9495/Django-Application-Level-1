@@ -28,6 +28,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# CREDS
+superusername = 'admin'
+password = 'admin@123'
 
 # Application definition
 
